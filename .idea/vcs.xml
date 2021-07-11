@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SHELL-SCRIPITNG" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terraform" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/terraform-mutable" vcs="Git" />
   </component>
